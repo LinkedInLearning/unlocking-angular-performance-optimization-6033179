@@ -2,6 +2,12 @@
 
 This is the repository for the LinkedIn Learning course `Unlocking Angular: Performance Optimization`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+## Course Description
+
+In today’s fast-paced digital world, even milliseconds can make the difference between user engagement and abandonment. This course is designed for senior engineers tasked with delivering blazing-fast, highly scalable applications under relentless pressure. Here, Derek Peruo—a senior technical lead for large-scale Angular and Ionic projects—dives deep into Angular’s internals, unveiling advanced techniques like optimizing change detection, isolating injectors, and leveraging Angular Refs to eliminate performance bottlenecks. If you're looking to gain a competitive edge by maximizing every aspect of your Angular app’s performance, this course is your roadmap to significantly leveling up your efficiency. Don't just meet user expectations—exceed them.
+
 ## Links to More Info
 
 ### Introduction
@@ -182,3 +188,15 @@ This is the repository for the LinkedIn Learning course `Unlocking Angular: Perf
 - https://www.haskell.org/
 - https://www.linkedin.com/learning/instructors/derek-peruo
 - https://www.rust-lang.org/
+
+ ## Instructor
+
+Derek Peruo
+
+Senior Technical Lead
+
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+
+[lil-course-url]: https://www.linkedin.com/learning/unlocking-angular-performance-optimization
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFRfMRnzJYcFA/learning-public-crop_675_1200/B4EZdCIOTxHIAY-/0/1749161142150?e=2147483647&v=beta&t=3WDDVm3Q1csXlL4XrHns2knLgrRtqa3nri5O6-w2ksU
